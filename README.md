@@ -1,2 +1,3 @@
-# inkscape-images
-Inkscape kuvia
+# Inkscape kuvia
+
+Inkscape vektorigrafiikka ohjelmalla tehtyjä kuvia.
