@@ -1,0 +1,1 @@
+HUOM: ainakin alussa on järkevää tarkkailla Herokussa olevan sovelluksen lokeja koko ajan. Parhaiten tämä onnistuu antamalla komento heroku logs -t, jolloin logit tulevat konsoliin sitä mukaan kun palvelimella tapahtuu jotain.
